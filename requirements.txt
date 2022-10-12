@@ -1,0 +1,14 @@
+fastapi
+passlib
+python-multipart
+pydantic[email]
+PyJWT
+uvicorn
+aiofiles
+jinja2
+pydantic
+motor
+starlette
+bcrypt
+async
+wheel
